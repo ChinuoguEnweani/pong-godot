@@ -27,7 +27,7 @@ The core objectives I set out to implement:
 
 ### Stretch / Bonus Features
 
-- Add sound effects (on paddle hit, wall bounce, scoring)  
+- Add sound effects (on paddle hit, wall bounce, scoring) and background music
 - Menu, reset, or simple UI polish  
 - Basic AI opponent  
 
@@ -47,7 +47,7 @@ The core objectives I set out to implement:
 - Ball movement and bounce logic is based on normalized angles  
 - Speed increases slightly after each paddle hit  
 - Collision detection handles bouncing off walls and paddles  
-- Sound effects triggered on collisions and scoring  
+- Sound effects triggered on collisions and scoring, background music 
 - Reset logic when a point is scored, positioning ball back in center  
 
 ---
